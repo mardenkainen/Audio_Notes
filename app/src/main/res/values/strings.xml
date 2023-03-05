@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Голосовые заметки</string>
+    <string name="delete">Удалить</string>
+    <string name="your_records">Ваши записи</string>
+    <string name="rename">Переименовать файл</string>
+    <string name="save">Сохранить</string>
+</resources>
